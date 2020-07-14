@@ -24,7 +24,7 @@ Windows:
 --Importer le fichier gestion.sql dans cette base de donnée
 
 --Sur NetBeans, importer le dossier "projet" (la totalité).
---Importer le connecteur JDBC MySQL que nous avons pris le soin de placer dans le repertoire ./ConnecteurDataBase.
+--Importer un connecteur JDBC MySQL (le connecteur correspondnat).
 
 Vous êtes prêt pour lancer le programme.
 
@@ -41,12 +41,5 @@ Dernière version stable: 3.0.0
 
 ## Auteur 
 
-* [@Amédée DERA](https://github.com/a-dera) 📖
-
-
-## Contact
-
-Vous pouvez me contacter à l'adresse suivante <dera.amedee@gmail.com>.
-
-
+* [@Amédée DERA](https://github.com/a-dera) 
 
