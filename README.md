@@ -3,6 +3,8 @@
 
 Ce projet qui a été réalisé dans le cadre du cours `Intiniation à la programmation orientée objet --Java` permet de gerer les anciens etudiants diplomés de l'IBAM.
 
+Une version avec graphique sera bientôt deposé (si j'ai eu le temps et si je n'oublie pas ).
+
 
 ## Prérequis
 Avant de démarrer assurez-vous de remplir ces conditions:
